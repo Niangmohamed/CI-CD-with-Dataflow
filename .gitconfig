@@ -1,0 +1,7 @@
+[credential "https://source.developers.google.com"]
+	helper = gcloud.sh
+[user]
+	email = student-00-a869fce70f2e@qwiklabs.net
+	name = student-00-a869fce70f2e@qwiklabs.net
+[http]
+	cookiefile = %USERPROFILE%\\.gitcookies

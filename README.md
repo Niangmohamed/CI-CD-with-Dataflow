@@ -10,4 +10,4 @@ In this project, you set up a continuous integration/continuous deployment (CI/C
 
 * Replicable procedures for environment setup.
 
-**NB**: The repository **ci-cd-for-data-processing-workflow-master** contains source code for the guide on how to use Cloud Build and Cloud Composer to create a CI/CD pipeline for building, deployment and testing of a data processing workflow. The code is available in the github of the Google Cloud Platform organization. Refer to the solution guide for the steps to run the code in the repo [ci-cd-for-data-processing-workflow-master](https://cloud.google.com/solutions/cicd-pipeline-for-data-processing).
+**NB**: The folder **ci-cd-for-data-processing-workflow-master** contains source code for the guide on how to use Cloud Build and Cloud Composer to create a CI/CD pipeline for building, deployment and testing of a data processing workflow. The code is available in the github of the Google Cloud Platform organization for viewer. Refer to the solution guide for the steps to run the code in the folder [ci-cd-for-data-processing-workflow-master](https://cloud.google.com/solutions/cicd-pipeline-for-data-processing).
